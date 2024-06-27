@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ayyyyy!👋 
 
-<!--
-**misterwaztaken/misterwaztaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, my name is **Kaz**! And I'm an **awesome and talented web designer** that specializes in **frontend stuff** *(website galore!)*
+I'm a bit of a clown, so there may be some jokes on my profile. So beware! 🤡
 
-Here are some ideas to get you started:
+sum things i know how to do/use/have used:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![some things i know:](https://skillicons.dev/icons?i=js,html,css,nodejs,bootstrap,github,linux,windows)
+
+*(btw, i'm an awesome IT guy, so the skills above include operating systems im familliar with too.)*
+
+Socials:
+
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://discord.gg/k7f7NdAw)
+[![My Skills](https://skillicons.dev/icons?i=youtube&perline=3)](https://youtube.com/@alexbolte_)
