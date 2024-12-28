@@ -5,7 +5,7 @@ I'm a bit of a clown, so there may be some jokes on my profile. So beware! 🤡
 
 sum things i know how to do/use/have used:
 
-![some things i know:](https://skillicons.dev/icons?i=js,html,css,nodejs,bootstrap,github,linux,windows,c,python)
+![some things i know:](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,linux,windows,c,python)
 
 *(btw, i'm an awesome IT guy, so the skills above include operating systems im familliar with too.)*
 
